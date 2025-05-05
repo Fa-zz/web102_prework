@@ -23,6 +23,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 <img src='https://i.imgur.com/6KkKWak.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Link: https://i.imgur.com/6KkKWak.gif
 
 ## Notes
 Difficulties:
