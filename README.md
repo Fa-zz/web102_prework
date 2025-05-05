@@ -22,13 +22,16 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Here's a walkthrough of implemented features: https://imgur.com/a/zHZadhA
 
 ## Notes
+Difficulties:
 
-Describe any challenges encountered while building the app.
+* I still do not entirely understand arrow functions, practically! I generally understand what is going on with them, but I need more practice before being able to write them myself "on the fly"
+* Had some confusion on whether to use GAMES_DATA, GAMES_JSON. How GAMES_DATA "becomes" GAMES_JSON
+* Creating and updating elements, e.g., game cards, using innerHTML and createElement()
+
+On a better note, I do understand how to use reduce, filter etc., better than when I had previously encountered these functions
 
 ## License
 
